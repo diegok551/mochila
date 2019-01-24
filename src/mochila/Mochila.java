@@ -9,7 +9,7 @@ public class Mochila {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int cant;
-        System.out.println("inserta el peso maximo que carga la  mochila");
+        System.out.println("maximo que carga la  mochila");
          cant = sc.nextInt();  
     int dinero[]= new int [9]; 
     int i=0; 
