@@ -37,7 +37,7 @@ public class Mochila {
     } 
     for(i=0;i<5;i++){ 
         if(i==0) 
-            System.out.println(dinero[i]+ " paquetes de 10"); 
+            System.out.println(dinero[i]+ " paquetes de 10 kilos "); 
             if(i==1) 
                 System.out.println(dinero[i]+ " paquetes de 7"); 
             if(i==2) 
